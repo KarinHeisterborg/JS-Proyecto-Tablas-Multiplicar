@@ -1,0 +1,47 @@
+
+{
+          "opciones": [ 
+                    {
+                      "id":3,
+                      "scene": "Perro",
+                      "img": "./assets/labrador.png",
+                      "img2":"https://tablas-multiplicar.com/wp-content/uploads/tabla-del-3-961x1536.jpg"
+                    }, 
+                    {
+                      "id":4,
+                      "scene": "Conejo",
+                      "img": "./assets/conejo.png",
+                      "img2":"https://tablas-multiplicar.com/wp-content/uploads/tabla-del-4-963x1536.jpg"
+                    },
+                    {
+                      "id":5,
+                      "scene": "Mono",
+                      "img": "assets/mono.png",
+                      "img2":"https://tablas-multiplicar.com/wp-content/uploads/tabla-del-5-965x1536.jpg"
+                    },
+                    {
+                      "id":6,
+                      "scene": "Delfin",
+                      "img": "./assets/delfin.png",
+                      "img2":"https://tablas-multiplicar.com/wp-content/uploads/tabla-del-6-970x1536.jpg"
+                    },
+                    {
+                      "id":7,
+                      "scene": "Gato",
+                      "img": "assets/gato.png",
+                      "img2":"https://tablas-multiplicar.com/wp-content/uploads/tabla-del-7-967x1536.jpg"
+                    },
+                    {
+                      "id":8,
+                      "scene": "Elefante",
+                      "img": "assets/elefante.png",
+                      "img2":"https://tablas-multiplicar.com/wp-content/uploads/tabla-del-8-972x1536.jpg"
+                    },
+                    {
+                      "id":9,
+                      "scene": "Panda",
+                      "img": "assets/panda.png",
+                      "img2": "https://tablas-multiplicar.com/wp-content/uploads/tabla-del-9-965x1536.jpg"
+                    }
+          ]     
+}

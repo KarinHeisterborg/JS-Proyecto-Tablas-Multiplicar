@@ -1,0 +1,43 @@
+body {
+    
+          background-color: aqua;
+          font-family: sans-serif;
+}
+h1 {
+          margin: 19%;
+}
+#choose {
+          margin-left: 3%;
+}
+#headerDiv {
+          height: 3%;
+}
+h1 {
+          font-size: 20px;
+}
+
+.navbar-brand {
+          color: coral;
+          font-size: 40px;
+}
+h4 {
+          margin-left: 20px;
+          background-color: coral;
+}
+
+.card-img-top {
+          height: 180px;
+          width: 30;
+}
+
+#btnFinal {
+          margin: 20px;
+          margin-left: 550px;
+}
+.ms-lg-4 {
+          margin-left: 24.5rem!important;
+          font-size: 25px;
+}
+#tabla {
+          border: 2px solid coral;
+}
